@@ -1941,6 +1941,24 @@ input, select, textarea {
 
 		}
 
+/* Cropper */		
+		.image-cropper {
+			width: 430px;
+			height: 430px;
+			margin-top: 50px;
+			margin-left: 10px;
+			position: relative;
+			overflow: hidden;
+			border-radius: 50%;
+		}
+		.profile-pic {
+		  display: inline;
+		  margin: 0 auto;
+		  margin-left: -0%;
+		  height: 100%;
+		  width: auto;
+		}	
+
 /* Main */
 
 	#main {
